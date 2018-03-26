@@ -1,0 +1,22 @@
+header {
+  color: white;
+  background-color: #ff00ff;
+  border: 1px solid black;
+}
+
+li{
+	text-decoration: underline;
+	color: white;
+}
+body {
+  background-color: #ff00ff;
+  font: 1em/150% Helvetica, Arial, sans-serif;
+  padding: 1em;
+  margin: 0 auto;
+  max-width: 33em;
+  BORDER: 1px solid black;
+}
+p {
+  color: black;
+  background-color: #ff00ff;
+}
